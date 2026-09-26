@@ -7,9 +7,3 @@ data:
   configuration.yaml: |
     # Home Assistant Configuration
     default_config:
-
-    http:
-      use_x_forwarded_for: true
-      trusted_proxies:
-        - 10.42.0.0/16
-        - 127.0.0.1
