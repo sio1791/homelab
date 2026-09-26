@@ -29,4 +29,3 @@ spec:
         - name: config
           persistentVolumeClaim:
             claimName: home-assistant-config
-
