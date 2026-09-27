@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
-  name: traefik-config
+  name: traefik-gateway
   namespace: argocd
 spec:
   project: default
